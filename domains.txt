@@ -1,4 +1,5 @@
 google.com A
+github.com A
 youtube.com A
 facebook.com A
 chatgpt.com A
